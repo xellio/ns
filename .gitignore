@@ -1,0 +1,5 @@
+*.xml
+Gopkg.lock
+glide.lock
+vendor/
+bin/

@@ -1,0 +1,10 @@
+database:
+  login: 'DB_LOGIN'
+  password: 'DB_PASSWORD'
+  host: '127.0.0.1'
+  port: '3306'
+  name: 'ns'
+  
+  conMaxLifetime: 5
+  maxIdleConns: 0
+  maxOpenConns: 10
